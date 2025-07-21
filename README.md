@@ -1,5 +1,7 @@
 ### 🔥
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=harked)](https://git.io/streak-stats)
+
 <!--
 **harked/harked** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
