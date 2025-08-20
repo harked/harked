@@ -1,4 +1,4 @@
-### 🔥
+### 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=harked)](https://git.io/streak-stats)
 
